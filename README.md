@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @serverStoat
+- 👋 Hey, I’m @serverStoat
 - 👀 I’m interested in contributing to open source projects
 - 🌱 I’m currently learning Swift and Rust
 - 😄 Pronouns: he/him
